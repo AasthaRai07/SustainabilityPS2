@@ -1,0 +1,7 @@
+{"level":"info","message":"🚀 Climate Storytelling API Server running on port 3001","service":"climate-storytelling-api","timestamp":"2026-02-06T21:43:32.034Z"}
+{"level":"info","message":"📡 Environment: development","service":"climate-storytelling-api","timestamp":"2026-02-06T21:43:32.037Z"}
+{"level":"info","message":"🔗 Frontend URL: http://localhost:5173","service":"climate-storytelling-api","timestamp":"2026-02-06T21:43:32.038Z"}
+{"ip":"::1","level":"info","message":"GET /api/health","service":"climate-storytelling-api","timestamp":"2026-02-06T21:44:24.969Z","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.7462"}
+{"ip":"::1","level":"info","message":"POST /api/stories/generate","service":"climate-storytelling-api","timestamp":"2026-02-06T21:45:46.918Z","userAgent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.7462"}
+{"ip":"::1","level":"info","message":"POST /api/stories/generate","service":"climate-storytelling-api","timestamp":"2026-02-06T21:47:13.846Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0"}
+{"ip":"::1","level":"info","message":"POST /api/stories/generate","service":"climate-storytelling-api","timestamp":"2026-02-06T21:47:27.607Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0"}
