@@ -59,7 +59,7 @@ const StoryDisplay = ({ story, onReset, userData }) => {
   return (
     <div className="space-y-6">
       {/* Header */}
-      <div className="text-center mb-8">
+      <div className="flex flex-col items-center text-center mb-8">
         <h2 className="text-3xl font-bold mb-2">
           <span className="mr-2">{sections[currentSection].icon}</span>
           {sections[currentSection].title}
@@ -75,9 +75,9 @@ const StoryDisplay = ({ story, onReset, userData }) => {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
-        className="climate-card"
+        className="climate-card flex flex-col items-center text-center"
       >
-        <div className="prose prose-invert max-w-none">
+        <div className="prose prose-invert max-w-2xl mx-auto text-center">
           <p className="text-lg leading-relaxed whitespace-pre-line">
             {currentSection === 0 ? story.content : sections[currentSection].content}
           </p>
